@@ -12,7 +12,7 @@
 
 ## 漏洞利用与缓解
 
-感兴趣的分析 -> [reverse](https://github.com/linzimin/memory/vul)
+感兴趣的分析 -> [vulnerability](https://github.com/linzimin/memory/vulnerability)
 
 ## 密码学与协议
 
